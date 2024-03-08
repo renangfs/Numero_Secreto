@@ -1,15 +1,15 @@
-git status
+git status<br>
 mostra tudo que esta desatualizado ou atualizado
 
-git log
+git log<br>
 mostra o historico de commit
 
-git commit -m "alterando limite para 100"
+git commit -m "alterando limite para 100"<br>
 atualiza a versão no codigo no computador local
 
-git push origin main 
+git push origin main <br>
 copia a versão do commit do computador e atualiza no github
 
-git pull origin main
-copia a versão do commit do github e atualiza no computador
+git pull origin main<br>
+copia a versão do commit do github e atualiza no computador<br>
 ![Uploading image.png…]()
