@@ -12,4 +12,6 @@ copia a versão do commit do computador e atualiza no github
 
 git pull origin main<br>
 copia a versão do commit do github e atualiza no computador<br>
-![Uploading image.png…]()
+<br>
+![image](https://github.com/renangfs/Numero_Secreto/assets/61218420/393bea3d-e927-4445-a08a-633df45bcd1a)
+
