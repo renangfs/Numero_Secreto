@@ -12,3 +12,4 @@ copia a versão do commit do computador e atualiza no github
 
 git pull origin main
 copia a versão do commit do github e atualiza no computador
+![Uploading image.png…]()
