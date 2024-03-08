@@ -2,7 +2,7 @@ let listaDeNumerosSorteados = [];
 let numeroLimite = 50;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
-// removendo foto
+// atualizei
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
     campo.innerHTML = texto;
